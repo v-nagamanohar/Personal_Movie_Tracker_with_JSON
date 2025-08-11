@@ -1,7 +1,8 @@
 
 
-````
-# 🎬 My Movie DB
+---
+
+## 🎬 My Movie DB
 
 A simple Python-based command-line application to manage your personal movie database.  
 You can add, view, and search movies with details like title, genre, and rating.  
